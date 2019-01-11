@@ -6,7 +6,7 @@ Hardware specifications
 - Raspberry PI
 - Stepper motors and drivers
 - GPIO connections
-- Laser pointer, transistor as a trigger and GPOI connections
+- Laser pointer, transistor as a trigger and GPIO connections
 
 Software
 - Python
